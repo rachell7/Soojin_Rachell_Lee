@@ -64,25 +64,25 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rachell.lee.sj@gmail.com'
+    link: 'mailto:your-email@example.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3tVUugUAAAAJ&hl=en&authuser=2
@@ -113,9 +113,7 @@ highlight_name: true
 ---
 
 I am a Masters student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in software development and incorporating machine learning to interpret meaningful data from large scale database. 
-
 I have experience in both research and industry. I worked as a software engineer intern at a medical AI company for a year. Also, I have worked as an undergraduate research student developing computer vision algorithms. I am always passionate about working in teams and addressing real-world problems.
-
 I am actively seeking software engineering, machine learning, or data science internships for Summer 2024.
 
 {style="text-align: justify;"}
