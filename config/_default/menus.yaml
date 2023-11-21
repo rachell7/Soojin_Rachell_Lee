@@ -8,23 +8,24 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
   - name: Experience
     url: '#experience'
     weight: 30
-  - name: 
+  - name: Teaching
     url: '#posts'
     weight: 40
   - name: Projects
     url: '#projects'
     weight: 50
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
   - name: CV
     url: uploads/resume.pdf
     weight: 60
+  - name: Hobbies
+    url: '#hobbies'
+    weight: 70
+  
 
 
 # Link to a PDF of your resume/CV from the menu.
