@@ -29,10 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  * Software Development
-  * Deep Learning
-  * Data Science
-  * Medical AI
+  - Software Development
+  - Deep Learning
+  - Data Science
+  - Medical AI
 
 # Education to show in About widget
 education:
