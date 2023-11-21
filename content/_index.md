@@ -65,7 +65,7 @@ sections:
         - title: Software Engineer Intern
           company: Cipherome
           company_url: 'https://www.cipherome.com/'
-          company_logo: org-gc
+          company_logo: 
           location: California
           date_start: '2022-03-20'
           date_end: '2023-03-20'
@@ -78,7 +78,7 @@ sections:
         - title: Undergraduate Research
           company: Korea University
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Seoul
           date_start: '2021-09-20'
           date_end: '2020-12-31'
@@ -200,20 +200,20 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   - block: collection
     id: talks
     content:

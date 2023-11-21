@@ -113,7 +113,9 @@ highlight_name: true
 ---
 
 I am a Masters student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in software development and incorporating machine learning to interpret meaningful data from large scale database. 
+
 I have experience in both research and industry. I worked as a software engineer intern at a medical AI company for a year. Also, I have worked as an undergraduate research student developing computer vision algorithms. I am always passionate about working in teams and addressing real-world problems.
+
 I am actively seeking software engineering, machine learning, or data science internships for Summer 2024.
 
 {style="text-align: justify;"}
