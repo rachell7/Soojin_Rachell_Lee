@@ -3,7 +3,7 @@
 title: Soojin (Rachell) Lee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Soojin
