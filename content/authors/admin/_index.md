@@ -30,7 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Software Development
-  - Deep Learning 
+  - Deep Learning
+  - Data Science
   - Medical AI
 
 # Education to show in About widget
@@ -90,13 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:rachell.lee.sj@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3tVUugUAAAAJ&hl=en&authuser=2
@@ -117,5 +112,10 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Masters student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in software development and incorporating machine learning to interpret meaningful data from large scale database. 
+
+I have experience in both research and industry. I worked as a software engineer intern at a medical AI company for a year. Also, I have worked as an undergraduate research student developing computer vision algorithms. I am always passionate about working in teams and addressing real-world problems.
+
+I am actively seeking software engineering, machine learning, or data science internships for Summer 2024.!
+
 {style="text-align: justify;"}
