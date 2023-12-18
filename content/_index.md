@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Soojin Rachell Lee'
+title: 'Soojin Lee'
 date: 2023-11-21
 type: landing
 
@@ -146,7 +146,7 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: teaching
+  - block: experience
     id: teaching
     content:
       title: Teaching
