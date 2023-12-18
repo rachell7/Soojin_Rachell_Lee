@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Soojin Lee'
+title: 'Soojin Rachell Lee'
 date: 2023-11-21
 type: landing
 
@@ -33,8 +33,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: '#007bff' 
+        gradient_start: '#2962ff' 
         text_color_light: true
 
   - block: about.biography
@@ -76,10 +76,10 @@ sections:
     id: publications
     content:
       title: Selected Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication

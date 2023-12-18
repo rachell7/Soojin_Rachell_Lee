@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Soojin (Rachell) Lee
+title: Soojin Lee
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -104,18 +104,18 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Soojin_Lee_resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/Soojin_Lee_resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Masters student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in software development and incorporating machine learning to interpret meaningful data from large scale database. 
+I am a Masters student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/). I am interested in software development and incorporating machine learning to interpret meaningful data from large scale database. 
 
 I have experience in both research and industry. I worked as a software engineer intern at a medical AI company for a year. Also, I have worked as an undergraduate research student developing computer vision algorithms. I am always passionate about working in teams and addressing real-world problems.
-
+d
 I am actively seeking software engineering, machine learning, or data science internships for Summer 2024.
 
 {style="text-align: justify;"}
